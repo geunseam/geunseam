@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @geunseam
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-geunseam/geunseam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Developer
+- Idk what to write about me
+- Play on guitar, may be?
