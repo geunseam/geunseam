@@ -1,3 +1,1 @@
-- Developer
-- Idk what to write about me
-- Play on guitar, may be?
+- Call me anime boy
