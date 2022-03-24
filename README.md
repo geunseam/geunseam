@@ -1,3 +1,3 @@
 - Call me anime boy
 - My python projects
--* Bots: 
+    - Bots: [Saved Pictures Bot](https://github.com/geunseam/savpicbot), [HomeworkBot (archived)](https://github.com/geunseam/BotHomework)
