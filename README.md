@@ -1,1 +1,3 @@
 - Call me anime boy
+- My python projects
+-- Bots: 
